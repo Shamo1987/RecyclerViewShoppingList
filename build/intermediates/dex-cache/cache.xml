@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-25.0.0_f7cc5a9e4154f877d125539339a4bd0ec3072ead.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_8065ec2ee4b54e5b1270c23518b150e71b945ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_524a4a88e67fcebd5d4ba920880beaf581d9d7ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_4f3ac3a71050d234461cdfc2fd79bfb6ddd9ac87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_176a8f83127e069c599400e2d19cf67353e7f538.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_e44a1bded7f6be5f6c65202f62eae85a170564ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1dd612cfe2bc6240739f5435bfb8d9d7c1a37895.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_23c2f33a8e34570b3bffa10e4429af8228a4aa91.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_498b3f98dbca394c7ea478855239106104b86448.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_2d67c086b278c6bc88f3594404e7f40546dd499b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_664749937765962846693a9d9b4afe3988e44df4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6f912d3f0bdacd6aeac6a413343fcd4ea47f8c73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_492245c40a33f9921565c8fe4d59e74d8b222b57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6d241d179d0b96ef17c61288c19c24927c17d7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_ec7f8172fd5edc646990bd80bc0c0b4f0d7fd221.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_07dd77c2cbc5633007e26380884f5c3ff24d7ab8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kasimadalan/Documents/Eğitimler/Java ile Native Android Eğitimi/Uygulamalar/6. Material Design/RecyclerViewCalismasi/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_19064d2cb59281d5f70ce416b57ca373e43699a8.jar" />
+    </item>
+
+</items>
